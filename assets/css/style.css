@@ -152,6 +152,25 @@ main section article p{
     margin-left: 3vw;
 }
 
+.section4{
+    text-align: center;
+}
+
 .section4img{
-    
+    width: 50%;
+    border-radius: 10px;
+    margin-bottom: 3vh;
+}
+
+.section4h3{
+    font-size: 2em;
+}
+
+.section4p{
+    font-size: 1em;
+    padding-right: 2.6vw;
+}
+
+.section4article{
+    padding-right: 35vw;
 }
