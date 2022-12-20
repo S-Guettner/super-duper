@@ -1,0 +1,61 @@
+/* ==========Global========== */
+
+@font-face {
+    font-family: "gilda";
+    src: url(../fonts/Gilda_Display/GildaDisplay-Regular.ttf);
+}
+@font-face {
+    font-family: "maven";
+    src: url(../fonts/Maven_Pro/MavenPro-Regular.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fontGilda{
+    font-family:"gilda";
+}
+
+.fontMaven{
+    font-family:"maven";
+}
+
+.whiteFont{
+    color: white;
+}
+
+.greyFont{
+    color:lightgray;
+}
+
+.logo{
+    margin-left:1rem;
+}
+
+header article{
+    margin-right: 40vw;
+    margin-left: 40vw;
+    padding: 0.5em;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 30vh;
+}
+
+header article h2{
+    margin-bottom: 0.5em;
+    font-size: 4em;
+}
+
+header ul{
+    margin-top: 10rem;
+}
+
+header ul a{
+    line-height: 1.5em;
+    display: block;
+    text-decoration: none;
+    text-align: end;
+    margin-right: 1.5rem;
+}
