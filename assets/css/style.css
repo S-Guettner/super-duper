@@ -145,11 +145,13 @@ main section article p{
 
 .section3h3{
     font-size: 2em;
+    padding-right: 0,9vw;
 }
 
 .section3p{
     font-size: 1em;
-    margin-left: 3vw;
+    margin-left: 2vw;
+    padding-left: 0.5em;
 }
 
 .section4{
@@ -164,11 +166,12 @@ main section article p{
 
 .section4h3{
     font-size: 2em;
+    padding-right: 2vw;
 }
 
 .section4p{
     font-size: 1em;
-    padding-right: 2.6vw;
+    padding-right: 4vw;
 }
 
 .section4article{
