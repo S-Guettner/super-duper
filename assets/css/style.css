@@ -47,13 +47,12 @@ header article{
     text-align: center;
     margin-top: 20vh;
     border-radius: 10px;
-    opacity: 0.9;
-    background: linear-gradient(45deg, rgba(159,136,212,1) 0%, rgba(37,9,121,0.8939950980392157) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(45deg, #194894 0%, #3dc8d5 35%, #8507e1 100%);
 }
 
 header article:hover{
-    background: linear-gradient(243deg, rgba(159,136,212,1) 0%, rgba(37,9,121,0.8939950980392157) 35%, rgba(0,212,255,1) 100%);
-    opacity:1;
+    background: linear-gradient(243deg, #194894 0%, #3dc8d5 35%, #8507e1 100%);
+
 }
 
 header article h2{
@@ -100,4 +99,59 @@ main section article h2{
 
 main section article p{
     font-size: 2em;
+    margin-bottom: 25vh;
+}
+
+.section2{
+    text-align: center;
+}
+
+.imgSection2{
+    width: 50%;
+    border-radius: 10px;
+    margin-bottom: 3vh;
+}
+
+.section2Article{
+    padding-right: 43vw;
+}
+
+.articleSection2h3{
+    font-size: 2em;
+}
+
+.articleSection2p{
+    margin-bottom: 30vh;
+    font-size: 1em;
+    padding-left: 1.4em;
+}
+
+
+
+.section3{
+    text-align: center;
+}
+
+.section3img{
+    width: 50%;
+    border-radius: 10px;
+    height: 490px;
+    margin-bottom: 3vh;
+}
+
+.section3article{
+    padding-right: 39vw;
+}
+
+.section3h3{
+    font-size: 2em;
+}
+
+.section3p{
+    font-size: 1em;
+    margin-left: 3vw;
+}
+
+.section4img{
+    
 }
