@@ -36,6 +36,7 @@
 
 header{
     background-color:#333;
+    margin-bottom: 10%;
 }
 
 header article{
@@ -75,4 +76,28 @@ header ul a{
 
 header ul a:hover{
     color: white;
+}
+
+main{
+    padding-left: 5rem;
+}
+.section1{
+    background: url(https://assets.website-files.com/5c8834f1555981170b2fd8b1/5c898cd67456ffcba141a5ff_PROJECTS.svg);
+    background-repeat: no-repeat;
+}
+
+.articleSection1{
+    text-align: left;
+    padding-right: 50rem;
+    padding-top: 5rem;
+}
+
+main section article h2{
+    font-size: 5em;
+    margin-bottom: 10vh;
+    
+}
+
+main section article p{
+    font-size: 2em;
 }
